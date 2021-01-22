@@ -1,4 +1,4 @@
-# GenshinImpactCalculator
+# Genshin Impact Calculator
 Genshin Impact Damage Calculator and Optimizer
 ### Veresion 2.7
 
