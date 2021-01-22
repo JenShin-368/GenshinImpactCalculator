@@ -1,6 +1,11 @@
 # GenshinImpactCalculator
 Genshin Impact Damage Calculator and Optimizer
+### Veresion 2.7
 
+*   Artifact abilities now properly check for conditions (e.g. Gladiator's Finalie, Thundersoother, etc)
+*   Added "Show Value of Substats," which shows the *marginal benefit* of each min/max roll of a substat to the optimizer's target. (e.g. % increase in DPS for a min/max roll ATK % substat).
+*   Fixed Albedo's C2.
+*   Optimizer's output is now clickable. Clicking an option will automatically equip it.
 ### Version 2.6
 
 *   Another UI Rework
