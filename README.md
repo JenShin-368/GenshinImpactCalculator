@@ -1,5 +1,8 @@
 # Genshin Impact Calculator
 Genshin Impact Damage Calculator and Optimizer
+
+See site for most recent updates (log below is outdated).
+
 ### Veresion 2.7
 
 *   Artifact abilities now properly check for conditions (e.g. Gladiator's Finalie, Thundersoother, etc)
